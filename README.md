@@ -654,7 +654,7 @@ copies of the Software.
 
 ## 📞 Contact & Support
 
-- 📧 **Email**: [Your Email]
+- 📧 **Email**: Available on my Profile
 - 🐙 **GitHub**: [Project Repository](https://github.com/Proxy939/Adaptive-traffic-signal-light-using-machine-learning)
 - 📝 **Issues**: [Report Issues](https://github.com/Proxy939/Adaptive-traffic-signal-light-using-machine-learning/issues)
 
